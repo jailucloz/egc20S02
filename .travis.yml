@@ -22,3 +22,8 @@ deploy:
   provider: heroku
   app: jailuclozegc20
   strategy: git
+
+notifications:
+  email:
+    - jailucloz@alum.us.es
+   
